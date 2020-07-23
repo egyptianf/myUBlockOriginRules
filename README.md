@@ -15,5 +15,5 @@
 
 <h3>Purchace Profile</h3>
 <p>
-	This is the profile for any online purchasing activities. <em>E.g.</em> <a href="https://amazon.com">Amazon</a>, <a href="https://souq.com">Souq, etc..
+	This is the profile for any online purchasing activities. <em>E.g.</em> <a href="https://amazon.com">Amazon</a>, <a href="https://souq.com">Souq</a>, etc..
 </p>
