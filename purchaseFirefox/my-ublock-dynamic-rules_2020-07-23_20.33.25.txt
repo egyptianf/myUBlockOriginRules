@@ -1,0 +1,221 @@
+no-csp-reports: * true
+no-large-media: behind-the-scene false
+no-scripting: * true
+no-scripting: 192.168.1.1 false
+no-scripting: ar.ikea.com false
+no-scripting: deals.souq.com false
+no-scripting: duckduckgo.com false
+no-scripting: eg.pricena.com false
+no-scripting: egypt.desertcart.com false
+no-scripting: egypt.souq.com false
+no-scripting: en.wikipedia.org false
+no-scripting: keepa.com false
+no-scripting: onboarding.priceblink.com false
+no-scripting: pcpartpicker.com false
+no-scripting: reg.ebay.com false
+no-scripting: search.cisco.com false
+no-scripting: secure.newegg.com false
+no-scripting: store.hp.com false
+no-scripting: tb.priceblink.com false
+no-scripting: web.whatsapp.com false
+no-scripting: www.amazon.com false
+no-scripting: www.asus.com false
+no-scripting: www.buydig.com false
+no-scripting: www.ebay.com false
+no-scripting: www.egprices.com false
+no-scripting: www.google.com false
+no-scripting: www.google.com.eg false
+no-scripting: www.jumia.com.eg false
+no-scripting: www.msi.com false
+no-scripting: www.newegg.com false
+no-scripting: www.noon.com false
+no-scripting: www.olx.com.eg false
+no-scripting: www.priceblink.com false
+no-scripting: www.quora.com false
+no-scripting: www.speedtest.net false
+no-scripting: www.ubuy.com.eg false
+no-scripting: www.xe.com false
+no-scripting: www.youtube.com false
+no-strict-blocking: redirect.viglink.com true
+no-strict-blocking: www.anrdoezrs.net true
+no-strict-blocking: www.dpbolvw.net true
+no-strict-blocking: www.emjcd.com true
+* * 3p-frame block
+* * 3p-script block
+* amazon-adsystem.com * block
+* cloudflare.com * allow
+* connect.facebook.net * block
+* facebook.net * block
+* googleadservices.com * block
+* priceblink.com * allow
+* s.amazon-adsystem.com * block
+* www.googleadservices.com * block
+* www.youtube.com * block
+* youtube.com * block
+192.168.1.1 192.168.1.1 * noop
+ar.ikea.com cloudflare.net * noop
+ar.ikea.com e11958.dscx.akamaiedge.net * noop
+ar.ikea.com e11958.x.akamaiedge.net * noop
+ar.ikea.com e6116.x.akamaiedge.net * noop
+ar.ikea.com jsdelivr.net * noop
+ar.ikea.com www.ikea.com * noop
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+deals.souq.com souqcdn.com * noop
+duckduckgo.com duckduckgo.com * noop
+eg.pricena.com balin-vpc-189999594.eu-west-1.elb.amazonaws.com * noop
+eg.pricena.com d1idriblkyftmu.cloudfront.net * noop
+eg.pricena.com gstatic.com * noop
+eg.pricena.com pricena.com * noop
+eg.pricena.com pricenacdn.com * noop
+eg.pricena.com ytimg.com * noop
+egypt.desertcart.com d2i9ptqxy0u7le.cloudfront.net * noop
+egypt.desertcart.com desertcart.com * noop
+egypt.souq.com d2rt30yebbl5hr.cloudfront.net * noop
+egypt.souq.com fastly.net * noop
+egypt.souq.com newrelic.com * noop
+egypt.souq.com o-s.io * noop
+egypt.souq.com souq.com * noop
+egypt.souq.com souqcdn.com * noop
+en.wikipedia.org dyna.wikimedia.org * noop
+keepa.com google.com * noop
+keepa.com gstatic.com * noop
+keepa.com www.google.com * noop
+onboarding.priceblink.com doubleclick.net * noop
+onboarding.priceblink.com stats.g.doubleclick.net * noop
+pcpartpicker.com cdn.pcpartpicker.com * noop
+reg.ebay.com ebay.com * noop
+reg.ebay.com ebaystatic.com * noop
+reg.ebay.com reg.ebay.com * noop
+search.cisco.com akamaiedge.net * noop
+search.cisco.com cisco.com * noop
+search.cisco.com search.cisco.com * noop
+search.cisco.com www.cisco.com * noop
+secure.newegg.com aexp-static.com * noop
+secure.newegg.com akamaiedge.net * noop
+secure.newegg.com newegg.com * noop
+secure.newegg.com neweggimages.com * noop
+secure.newegg.com paypalobjects.com * noop
+store.hp.com akamaiedge.net * noop
+store.hp.com hp.com * noop
+store.hp.com priceblink.com * noop
+tb.priceblink.com assets.zendesk.com * noop
+tb.priceblink.com cdn.mxpnl.com * noop
+tb.priceblink.com doubleclick.net * noop
+tb.priceblink.com googleads.g.doubleclick.net * noop
+tb.priceblink.com js-agent.newrelic.com * noop
+tb.priceblink.com mxpnl.com * noop
+tb.priceblink.com newrelic.com * noop
+tb.priceblink.com priceblink.com * noop
+tb.priceblink.com static.zdassets.com * noop
+tb.priceblink.com tb.priceblink.com * noop
+tb.priceblink.com zdassets.com * noop
+tb.priceblink.com zendesk.com * noop
+web.whatsapp.com mmx-ds.cdn.whatsapp.net * noop
+web.whatsapp.com whatsapp.net * noop
+www.amazon.com amazon.com * noop
+www.amazon.com amazon.map.fastly.net * noop
+www.amazon.com amazonaws.com * noop
+www.amazon.com cloudfront-labs.amazonaws.com * noop
+www.amazon.com coin.amazonpay.com * noop
+www.amazon.com fls-na.amazon.com * noop
+www.amazon.com images-na.ssl-images-amazon.com * noop
+www.amazon.com keepa.com * allow
+www.amazon.com m.media-amazon.com * noop
+www.amazon.com media-amazon.com * noop
+www.amazon.com priceblink.com * allow
+www.amazon.com ssl-images-amazon.com * noop
+www.amazon.com unagi-na.amazon.com * noop
+www.asus.com ajax.googleapis.com * noop
+www.asus.com asus.com * noop
+www.asus.com cs95619.adn.psicdn.net * noop
+www.asus.com gstatic.com * noop
+www.buydig.com 2o7.net * noop
+www.buydig.com aws-buydig.beachcameracdn.com * noop
+www.buydig.com beachcameracdn.com * noop
+www.buydig.com cloudflare.net * noop
+www.buydig.com cnetcontent.com * noop
+www.buydig.com d2j3qa5nc37287.cloudfront.net * noop
+www.buydig.com jsdelivr.net * noop
+www.buydig.com klaviyo.com * noop
+www.ebay.com akamaiedge.net * noop
+www.ebay.com ebay.com * noop
+www.ebay.com ebaydesc.com * noop
+www.ebay.com ebayimg.com * noop
+www.ebay.com ebayimg.map.fastly.net * noop
+www.ebay.com ebayrtm.com * noop
+www.ebay.com ebaystatic.com * noop
+www.ebay.com i.ebayimg.com * noop
+www.ebay.com priceblink.com * noop
+www.ebay.com rover.ebay.com * noop
+www.ebay.com www.ebay.com * noop
+www.egprices.com cloudflare.com * noop
+www.egprices.com egprices.com * noop
+www.facebook.com facebook.com * allow
+www.google.com.eg gstatic.com * noop
+www.jumia.com.eg cloudflare.net * noop
+www.jumia.com.eg jumia.is * noop
+www.jumia.com.eg newrelic.com * noop
+www.msi.com addthis.com * noop
+www.msi.com ajax.googleapis.com * noop
+www.msi.com bootstrapcdn.com * noop
+www.msi.com cedexis.com * noop
+www.msi.com civiccomputing.com * noop
+www.msi.com cloudflare.com * allow
+www.msi.com createjs.com * noop
+www.msi.com d31qbv1cthcecs.cloudfront.net * noop
+www.msi.com go-mpulse.net * noop
+www.msi.com hwcdn.net * noop
+www.msi.com jquery.com * noop
+www.msi.com jsdelivr.net * noop
+www.msi.com msi.com * noop
+www.newegg.com akamaiedge.net * noop
+www.newegg.com amazonaws.com * noop
+www.newegg.com neweggimages.com * noop
+www.noon.com ajax.googleapis.com * noop
+www.noon.com akamaiedge.net * noop
+www.noon.com gstatic.com * noop
+www.noon.com nooncdn.com * noop
+www.olx.com.eg checkout.com * noop
+www.olx.com.eg gemius.pl * noop
+www.olx.com.eg mookie1.com * noop
+www.olx.com.eg ninja.akamaized.net * noop
+www.olx.com.eg olx-st.com * noop
+www.olx.com.eg olx.com.eg * noop
+www.olx.com.eg olxegstatic-a.akamaihd.net * noop
+www.quora.com quora.map.fastly.net * noop
+www.quora.com quoracdn.net * noop
+www.speedtest.net akamaiedge.net * noop
+www.speedtest.net cdnst.net * noop
+www.speedtest.net www.speedtest.net * noop
+www.speedtest.net zd.map.fastly.net * noop
+www.speedtest.net zdstatic.speedtest.net * noop
+www.ubuy.com.eg d2ati23fc66y9j.cloudfront.net * noop
+www.ubuy.com.eg d3ulwu8fab47va.cloudfront.net * noop
+www.ubuy.com.eg s3-3-w.amazonaws.com * noop
+www.ubuy.com.eg ubuy-newdomain-1894955118.eu-west-1.elb.amazonaws.com * noop
+www.xe.com cdn.optimizely.com * noop
+www.xe.com d31qbv1cthcecs.cloudfront.net * noop
+www.xe.com doubleclick.net * noop
+www.xe.com du1btj2rphk18.cloudfront.net * noop
+www.xe.com optimizely.com * noop
+www.xe.com tags.tiqcdn.com * noop
+www.xe.com tiqcdn.com * noop
+www.xe.com xe.com * noop
+www.youtube.com accounts.google.com * noop
+www.youtube.com doubleclick.net * noop
+www.youtube.com google.com.eg * noop
+www.youtube.com googleusercontent.com * noop
+www.youtube.com gstatic.com * noop
+www.youtube.com gstaticadssl.l.google.com * noop
+www.youtube.com www.google.com * noop
+www.youtube.com www.google.com.eg * noop
+www.youtube.com www.youtube.com * noop
+www.youtube.com youtube-ui.l.google.com * noop
+www.youtube.com youtube.com * noop
+www.youtube.com ytimg.com * noop
