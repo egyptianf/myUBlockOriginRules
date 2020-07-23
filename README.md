@@ -1,4 +1,5 @@
 ## uBlock Origin filtering rules and backups
+<em>(Will be frequently updated)</em>
 
 <h2>Main profiles:</h2>
 
