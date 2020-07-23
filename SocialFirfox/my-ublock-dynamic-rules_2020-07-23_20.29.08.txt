@@ -1,0 +1,904 @@
+no-csp-reports: * true
+no-large-media: behind-the-scene false
+no-scripting: * true
+no-scripting: 1337x.to false
+no-scripting: 192.168.1.1 false
+no-scripting: 192.168.1.2 false
+no-scripting: 192.168.1.253 false
+no-scripting: 93.174.95.29 false
+no-scripting: about.google false
+no-scripting: academy.microsoft.com false
+no-scripting: accounts.google.com false
+no-scripting: accounts.snapchat.com false
+no-scripting: accounts.spotify.com false
+no-scripting: aischool.microsoft.com false
+no-scripting: alghazi-m.tumblr.com false
+no-scripting: amltaha.com false
+no-scripting: animejs.com false
+no-scripting: app.grammarly.com false
+no-scripting: app.wire.com false
+no-scripting: ar.wikipedia.org false
+no-scripting: arabic.britannicaenglish.com false
+no-scripting: arabicpost.me false
+no-scripting: arabtigers.com false
+no-scripting: arbfonts.com false
+no-scripting: archive.org false
+no-scripting: atharah.com false
+no-scripting: bdsmovement.net false
+no-scripting: behind-the-scene false
+no-scripting: bitly.com false
+no-scripting: blogs.aljazeera.net false
+no-scripting: boringbooks.net false
+no-scripting: botometer.iuni.iu.edu false
+no-scripting: calendar.google.com false
+no-scripting: cardgames.io false
+no-scripting: catalog.aucegypt.edu false
+no-scripting: code.i-harness.com false
+no-scripting: contacts.google.com false
+no-scripting: cs.lmu.edu false
+no-scripting: curiouscat.me false
+no-scripting: curiouscat.qa false
+no-scripting: cybertalents.com false
+no-scripting: datasetsearch.research.google.com false
+no-scripting: designshack.net false
+no-scripting: dictionary.cambridge.org false
+no-scripting: discordapp.com false
+no-scripting: docs.google.com false
+no-scripting: docs.vmware.com false
+no-scripting: donttrack.us false
+no-scripting: downloadgram.com false
+no-scripting: drive.google.com false
+no-scripting: dubfellows.com false
+no-scripting: duckduckgo.com false
+no-scripting: eg.hatla2ee.com false
+no-scripting: elmahatta.com false
+no-scripting: elsada.net false
+no-scripting: en.m.wikipedia.org false
+no-scripting: en.wikipedia.org false
+no-scripting: fast.com false
+no-scripting: fbdown.miinosoft.com false
+no-scripting: fbdown.net false
+no-scripting: file-scheme false
+no-scripting: filmschoolrejects.com false
+no-scripting: fonts.adobe.com false
+no-scripting: fonts.google.com false
+no-scripting: foodpurby.in false
+no-scripting: fortune.com false
+no-scripting: forum.videohelp.com false
+no-scripting: foursquare.com false
+no-scripting: gamejolt.com false
+no-scripting: gameztoday.blogspot.com false
+no-scripting: genius.com false
+no-scripting: get.adobe.com false
+no-scripting: getfedora.org false
+no-scripting: gfycat.com false
+no-scripting: giphy.com false
+no-scripting: github.com false
+no-scripting: graduation.udacity.com false
+no-scripting: hitsmedia.us false
+no-scripting: hoaxy.iuni.iu.edu false
+no-scripting: ida2at-2033742816.eu-central-1.elb.amazonaws.com false
+no-scripting: images.google.com false
+no-scripting: imgur.com false
+no-scripting: itcher.com false
+no-scripting: iti.gov.eg false
+no-scripting: itunes.apple.com false
+no-scripting: jaaaaa97.tumblr.com false
+no-scripting: jitsi.org false
+no-scripting: keepa.com false
+no-scripting: ladyada.net false
+no-scripting: libgen.io false
+no-scripting: libgen.is false
+no-scripting: lingojam.com false
+no-scripting: login.yahoo.com false
+no-scripting: m.facebook.com false
+no-scripting: madamirror17.appspot.com false
+no-scripting: mail.google.com false
+no-scripting: mail.tutanota.com false
+no-scripting: mail.yahoo.com false
+no-scripting: mana.net false
+no-scripting: manjaro.org false
+no-scripting: mars.nasa.gov false
+no-scripting: medium.com false
+no-scripting: meet.jit.si false
+no-scripting: megaplusredirection.tedata.net false
+no-scripting: moi.gov.eg false
+no-scripting: mqaal.com false
+no-scripting: muslims-res.com false
+no-scripting: my.fci-cu.edu.eg false
+no-scripting: my.smartrecruiters.com false
+no-scripting: myaccount.google.com false
+no-scripting: natheermlk.blogspot.com false
+no-scripting: nb-egypt.com false
+no-scripting: noneentity.tumblr.com false
+no-scripting: old2.rlsbb.ru false
+no-scripting: onmovies.to false
+no-scripting: open.spotify.com false
+no-scripting: ourpastimes.com false
+no-scripting: pcpartpicker.com false
+no-scripting: pharmacyy.esy.es false
+no-scripting: pixlr.com false
+no-scripting: play.anghami.com false
+no-scripting: poss.hol.es false
+no-scripting: premiumbuilds.com false
+no-scripting: quran.ksu.edu.sa false
+no-scripting: rarbg.cc false
+no-scripting: rarbgaccess.org false
+no-scripting: react-socialapp.herokuapp.com false
+no-scripting: reimmahmoud.tumblr.com false
+no-scripting: resolver.tools false
+no-scripting: secure.meetup.com false
+no-scripting: secure.skype.com false
+no-scripting: slack.com false
+no-scripting: smsreceivefree.com false
+no-scripting: sohibbhgat.com false
+no-scripting: soundcloud.com false
+no-scripting: takeout.google.com false
+no-scripting: te.eg false
+no-scripting: thearchive.me false
+no-scripting: themoneyconverter.com false
+no-scripting: thepiratebay.org false
+no-scripting: thmanyah.com false
+no-scripting: tinder.com false
+no-scripting: toggl.com false
+no-scripting: translate.google.com false
+no-scripting: trello.com false
+no-scripting: twdownload.com false
+no-scripting: twitter.com false
+no-scripting: uploadfiles.io false
+no-scripting: us02web.zoom.us false
+no-scripting: us04web.zoom.us false
+no-scripting: videolectures.net false
+no-scripting: web.hellotalk.com false
+no-scripting: web.whatsapp.com false
+no-scripting: ww42.speedtest.com false
+no-scripting: www.acadox.com false
+no-scripting: www.almaany.com false
+no-scripting: www.almotanabbi.com false
+no-scripting: www.amltaha.eb2a.com false
+no-scripting: www.anghami.com false
+no-scripting: www.apkmirror.com false
+no-scripting: www.aucegypt.edu false
+no-scripting: www.behance.net false
+no-scripting: www.bing.com false
+no-scripting: www.cpubenchmark.net false
+no-scripting: www.downloadvideosfrom.com false
+no-scripting: www.edx.org false
+no-scripting: www.elmessiri.com false
+no-scripting: www.facebook.com false
+no-scripting: www.ffonts.net false
+no-scripting: www.fonts.com false
+no-scripting: www.goodreads.com false
+no-scripting: www.google.com false
+no-scripting: www.google.com.eg false
+no-scripting: www.grammarly.com false
+no-scripting: www.hackintoshzone.com false
+no-scripting: www.health.harvard.edu false
+no-scripting: www.ida2at.com false
+no-scripting: www.imdb.com false
+no-scripting: www.indeed.com false
+no-scripting: www.infinix.club false
+no-scripting: www.instagram.com false
+no-scripting: www.interpals.net false
+no-scripting: www.italki.com false
+no-scripting: www.javatpoint.com false
+no-scripting: www.jetbrains.com false
+no-scripting: www.jumia.com.eg false
+no-scripting: www.lingoglobe.com false
+no-scripting: www.livebinders.com false
+no-scripting: www.livehelpnow.net false
+no-scripting: www.maajim.com false
+no-scripting: www.mathsisfun.com false
+no-scripting: www.meetup.com false
+no-scripting: www.messenger.com false
+no-scripting: www.mod.gov.eg false
+no-scripting: www.myfonts.com false
+no-scripting: www.mytedata.net false
+no-scripting: www.netflix.com false
+no-scripting: www.omegle.com false
+no-scripting: www.onlinewebfonts.com false
+no-scripting: www.payscale.com false
+no-scripting: www.pinterest.com false
+no-scripting: www.quora.com false
+no-scripting: www.quranflash.com false
+no-scripting: www.reddit.com false
+no-scripting: www.shakwa.eg false
+no-scripting: www.shoroukbookstores.com false
+no-scripting: www.snopes.com false
+no-scripting: www.spacex.com false
+no-scripting: www.speaky.com false
+no-scripting: www.speedtest.net false
+no-scripting: www.springer.com false
+no-scripting: www.te.eg false
+no-scripting: www.technologyreview.com false
+no-scripting: www.thepiratebay.org false
+no-scripting: www.tiktok.com false
+no-scripting: www.tumblr.com false
+no-scripting: www.twitch.tv false
+no-scripting: www.usfca.edu false
+no-scripting: www.w3toys.com false
+no-scripting: www.worldometers.info false
+no-scripting: www.xda-developers.com false
+no-scripting: www.youtube.com false
+no-scripting: www1.rarbg.cc false
+no-scripting: www6.123movies.st false
+no-scripting: y2mate.com false
+no-scripting: yasserreda.pb.online false
+no-scripting: zone.msn.com false
+no-scripting: zoom.us false
+* * 3p-frame block
+* * 3p-script block
+* addthis.com * block
+* amazon-adsystem.com * block
+* amazon.com * block
+* c.amazon-adsystem.com * block
+* cloudflare.com * allow
+* doubleclick.net * noop
+* facebook.net * block
+* fls-na.amazon.com * block
+* google-analytics.com * block
+* netflix.com * block
+* nflxvideo.net * block
+1337x.to 1337x.to * noop
+1337x.to djv99sxoqpv11.cloudfront.net * noop
+1337x.to dyncdn.cc * noop
+1337x.to gmidkz5tgm.com * noop
+1337x.to ie8eamus.com * noop
+accounts.google.com google.com * noop
+accounts.google.com gstatic.com * noop
+accounts.google.com youtube.com * noop
+accounts.spotify.com accounts.scdn.co * noop
+accounts.spotify.com accounts.spotify.com * noop
+accounts.spotify.com scdn.co * noop
+accounts.spotify.com spotify.com * noop
+aischool.microsoft.com assets.adobedtm.com * noop
+aischool.microsoft.com az416426.vo.msecnd.net * noop
+aischool.microsoft.com azureedge.net * noop
+aischool.microsoft.com gfx.ms * noop
+aischool.microsoft.com licdn.com * noop
+aischool.microsoft.com live.com * noop
+aischool.microsoft.com login.live.com * noop
+aischool.microsoft.com logincdn.msauth.net * noop
+aischool.microsoft.com microsoft.com * noop
+aischool.microsoft.com msauth.net * noop
+aischool.microsoft.com msecnd.net * noop
+aischool.microsoft.com mwf-service.akamaized.net * noop
+aischool.microsoft.com s-microsoft.com * noop
+aischool.microsoft.com snap.licdn.com * noop
+aischool.microsoft.com web.vortex.data.microsoft.com * noop
+alghazi-m.tumblr.com oath.com * noop
+alghazi-m.tumblr.com px.srvcs.tumblr.com * noop
+app.grammarly.com dip5ailc7airr.cloudfront.net * noop
+app.wire.com app.wire.com * noop
+app.wire.com wire.com * noop
+arabic.britannicaenglish.com ajax.aspnetcdn.com * noop
+arabic.britannicaenglish.com aspnetcdn.com * noop
+arabicpost.me ads-twitter.com * noop
+arabicpost.me arabicpost.me * noop
+arabicpost.me cdn.onesignal.com * noop
+arabicpost.me cdn.onthe.io * noop
+arabicpost.me cdn.parsely.com * noop
+arabicpost.me onesignal.com * noop
+arabicpost.me onthe.io * noop
+arabicpost.me parsely.com * noop
+arabtigers.com cloudflare.com * noop
+arabtigers.com openload.co * noop
+bdsmovement.net addthis.com * noop
+bdsmovement.net bdsmovement.net * noop
+bdsmovement.net cdn.jsdelivr.net * noop
+bdsmovement.net donorbox.org * noop
+bdsmovement.net jsdelivr.net * noop
+bdsmovement.net s7.addthis.com * noop
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+bitly.com docrdsfx76ssb.cloudfront.net * noop
+bitly.com qualified.com * noop
+boringbooks.net fontstatic.com * noop
+botometer.iuni.iu.edu ajax.googleapis.com * noop
+botometer.iuni.iu.edu d3js.org * noop
+botometer.iuni.iu.edu jsdelivr.net * noop
+calendar.google.com maps.googleapis.com * noop
+catalog.aucegypt.edu acalog-clients.s3.amazonaws.com * noop
+catalog.aucegypt.edu ajax.googleapis.com * noop
+code.i-harness.com bootstrapcdn.com * noop
+code.i-harness.com cloudflare.com * noop
+code.i-harness.com fontawesome.com * noop
+code.i-harness.com fonts.googleapis.com * noop
+code.i-harness.com googlesyndication.com * noop
+code.i-harness.com googletagmanager.com * noop
+code.i-harness.com i-harness.com * noop
+code.i-harness.com jquery.com * noop
+contacts.google.com contacts.google.com * noop
+contacts.google.com google.com * noop
+contacts.google.com googleusercontent.com * noop
+contacts.google.com gstatic.com * noop
+contacts.google.com lh3.googleusercontent.com * noop
+contacts.google.com ssl.gstatic.com * noop
+contacts.google.com www.gstatic.com * noop
+cs.lmu.edu cloudflare.com * noop
+cs.lmu.edu fonts.googleapis.com * noop
+cs.lmu.edu lmu.edu * noop
+cs.lmu.edu youtube.com * noop
+curiouscat.me twitter.com * noop
+cybertalents.com api.segment.io * noop
+cybertalents.com cdn.segment.com * noop
+cybertalents.com cybertalents.com * noop
+cybertalents.com hotjar.com * noop
+cybertalents.com intercom.io * noop
+cybertalents.com segment.com * noop
+cybertalents.com segment.io * noop
+cybertalents.com static.hotjar.com * noop
+cybertalents.com website-cybertalents.s3-us-west-2.amazonaws.com * noop
+cybertalents.com widget.intercom.io * noop
+datasetsearch.research.google.com ssl.gstatic.com * noop
+datasetsearch.research.google.com www.gstatic.com * noop
+dictionary.cambridge.org ampproject.org * noop
+dictionary.cambridge.org ap.lijit.com * noop
+dictionary.cambridge.org api.polarbyte.com * noop
+dictionary.cambridge.org as-sec.casalemedia.com * noop
+dictionary.cambridge.org bidder.criteo.com * noop
+dictionary.cambridge.org cambridge.org * noop
+dictionary.cambridge.org casalemedia.com * noop
+dictionary.cambridge.org cdn.ampproject.org * noop
+dictionary.cambridge.org criteo.com * noop
+dictionary.cambridge.org criteo.net * noop
+dictionary.cambridge.org d1yu67rmchodpo.cloudfront.net * noop
+dictionary.cambridge.org dictionary.cambridge.org * noop
+dictionary.cambridge.org fastlane.rubiconproject.com * noop
+dictionary.cambridge.org hotjar.com * noop
+dictionary.cambridge.org lijit.com * noop
+dictionary.cambridge.org polarbyte.com * noop
+dictionary.cambridge.org rubiconproject.com * noop
+dictionary.cambridge.org static.criteo.net * noop
+dictionary.cambridge.org static.hotjar.com * noop
+docs.google.com ssl.gstatic.com * noop
+docs.google.com www.gstatic.com * noop
+docs.vmware.com akamaiedge.net * noop
+docs.vmware.com docs.vmware.com * noop
+docs.vmware.com e751.dscx.akamaiedge.net * noop
+docs.vmware.com vmware.com * noop
+downloadgram.com vnrherdsxr.com * noop
+drive.google.com fonts.googleapis.com * noop
+drive.google.com google.com * noop
+drive.google.com googleusercontent.com * noop
+drive.google.com gstatic.com * noop
+duckduckgo.com duckduckgo.com * noop
+eg.hatla2ee.com hatla2eestatic.com * noop
+elmahatta.com ajax.cloudflare.com * noop
+elmahatta.com cloudflare.com * noop
+en.m.wikipedia.org en.m.wikipedia.org * noop
+en.m.wikipedia.org wikimedia.org * noop
+en.m.wikipedia.org wikipedia.org * noop
+en.wikipedia.org dyna.wikimedia.org * noop
+fbdown.miinosoft.com ajax.googleapis.com * noop
+fbdown.miinosoft.com connect.facebook.net * noop
+fbdown.miinosoft.com facebook.net * noop
+fbdown.miinosoft.com fbdown.miinosoft.com * noop
+fbdown.miinosoft.com fonts.googleapis.com * noop
+fbdown.miinosoft.com gstatic.com * noop
+fbdown.miinosoft.com hotjar.com * noop
+fbdown.miinosoft.com miinosoft.com * noop
+fbdown.miinosoft.com reliablesoft.net * noop
+fbdown.miinosoft.com static.hotjar.com * noop
+fbdown.miinosoft.com www.reliablesoft.net * noop
+fbdown.net cdnjs.cloudflare.com * noop
+fbdown.net cloudflare.com * noop
+fbdown.net connect.facebook.net * noop
+fbdown.net facebook.net * noop
+fbdown.net fbdown.net * noop
+fci-cu-asd402.slack.com d29id7n8587nnz.cloudfront.net * noop
+file-scheme adobedtm.com * noop
+file-scheme assets.adobedtm.com * noop
+file-scheme fonts.mathworks.com * noop
+file-scheme mathworks.com * noop
+fonts.google.com doubleclick.net * noop
+fonts.google.com fonts.google.com * noop
+fonts.google.com google-analytics.com * noop
+fonts.google.com google.com * noop
+fonts.google.com gstatic.com * noop
+fonts.google.com survey.g.doubleclick.net * noop
+fonts.google.com www.google-analytics.com * noop
+fonts.google.com www.gstatic.com * noop
+fortune.com ampproject.org * noop
+fortune.com cdn.ampproject.org * noop
+fortune.com fonts.googleapis.com * noop
+fortune.com fortune.com * noop
+gamejolt.com gamejolt.com * noop
+gamejolt.com gjcdn.net * noop
+gamejolt.com google-analytics.com * noop
+gamejolt.com s.gjcdn.net * noop
+gamejolt.com www.google-analytics.com * noop
+gameztoday.blogspot.com ajax.googleapis.com * noop
+genius.com ajax.googleapis.com * noop
+genius.com genius.com * noop
+hoaxy.iuni.iu.edu jquery.com * noop
+hoaxy.iuni.iu.edu jsdelivr.net * noop
+imgur.com ajax.googleapis.com * noop
+imgur.com d1fh3f0kkan5vq.cloudfront.net * noop
+imgur.com imgur.map.fastly.net * noop
+itcher.com akamaihd.net * noop
+itcher.com disqus.com * noop
+itcher.com disquscdn.com * noop
+itcher.com embed.ly * noop
+itcher.com embedly.com * noop
+itcher.com facebook.net * noop
+itcher.com google-analytics.com * noop
+itcher.com googletagmanager.com * noop
+itcher.com gravatar.com * noop
+itcher.com itcher.com * noop
+itcher.com itchermagstaticcontent.s3-eu-west-1.amazonaws.com * noop
+itcher.com media.net * noop
+itcher.com mnet-ad.net * noop
+itcher.com storage.googleapis.com * noop
+itcher.com twitter.com * noop
+keepa.com keepa.com * noop
+libgen.io googletagmanager.com * noop
+libgen.io libgen.io * noop
+lingojam.com deployads.com * noop
+m.facebook.com doubleclick.net * noop
+m.facebook.com facebook.com * noop
+m.facebook.com fbcdn.net * noop
+m.facebook.com googleads.g.doubleclick.net * noop
+m.facebook.com m.facebook.com * noop
+m.facebook.com scontent-hbe1-1.xx.fbcdn.net * noop
+m.facebook.com static.xx.fbcdn.net * noop
+madamirror17.appspot.com bootstrapcdn.com * noop
+madamirror17.appspot.com cdnjs.cloudflare.com * noop
+madamirror17.appspot.com cloudflare.com * noop
+madamirror17.appspot.com disqus.com * noop
+madamirror17.appspot.com madamasrip.disqus.com * noop
+madamirror17.appspot.com maxcdn.bootstrapcdn.com * noop
+mail.google.com googleusercontent.com * noop
+mail.google.com gstatic.com * noop
+mail.google.com mail.google.com * noop
+mail.tutanota.com mail.tutanota.com * noop
+mail.tutanota.com tutanota.com * noop
+mail.yahoo.com consent.cmp.oath.com * noop
+mail.yahoo.com csp.yahoo.com * noop
+mail.yahoo.com mail.yahoo.com * noop
+mail.yahoo.com oath.com * noop
+mail.yahoo.com s.yimg.com * noop
+mail.yahoo.com yimg.com * noop
+mana.net mana.net * noop
+meet.jit.si jitsi.net * noop
+muslims-res.com ajax.googleapis.com * noop
+muslims-res.com maxcdn.com * noop
+my.te.eg accounts.google.com * noop
+my.te.eg api-my.te.eg * noop
+my.te.eg apis.google.com * noop
+my.te.eg google.com * noop
+my.te.eg gstatic.com * noop
+my.te.eg my.te.eg * noop
+my.te.eg ssl.gstatic.com * noop
+my.te.eg te.eg * noop
+my.te.eg www.gstatic.com * noop
+myaccount.google.com gstatic.com * noop
+natheermlk.blogspot.com blogger.com * noop
+natheermlk.blogspot.com google.com * noop
+nb-egypt.com ajax.googleapis.com * noop
+nb-egypt.com cdnjs.cloudflare.com * noop
+nb-egypt.com cloudflare.com * noop
+nb-egypt.com nb-egypt.com * noop
+open.spotify.com scdn.co * noop
+pharmacyy.esy.es bootstrapcdn.com * noop
+pharmacyy.esy.es esy.es * noop
+pharmacyy.esy.es fontawesome.com * noop
+pharmacyy.esy.es kit-free.fontawesome.com * noop
+pharmacyy.esy.es kit.fontawesome.com * noop
+pharmacyy.esy.es pharmacyy.esy.es * noop
+pharmacyy.esy.es stackpath.bootstrapcdn.com * noop
+pixlr.com d37dwo8jr8oxre.cloudfront.net * noop
+pixlr.com pixlr.com * noop
+play.anghami.com a545d0821788911e9800302df61cf530-1992437224.eu-west-1.elb.amazonaws.com * noop
+play.anghami.com a728.d.akamai.net * noop
+play.anghami.com acuityplatform.com * noop
+play.anghami.com akamai.net * noop
+play.anghami.com akamaized.net * noop
+play.anghami.com amplitude.com * noop
+play.anghami.com angapi-505003653.eu-west-1.elb.amazonaws.com * noop
+play.anghami.com anghami.com * noop
+play.anghami.com bidswitch.net * noop
+play.anghami.com branch.io * noop
+play.anghami.com cdn-apple.com * noop
+play.anghami.com cdn.amplitude.com * noop
+play.anghami.com d15c7r7xafcdi4.cloudfront.net * noop
+play.anghami.com d1bs4b7zdgd8l3.cloudfront.net * noop
+play.anghami.com d3nhk3h83d1umo.cloudfront.net * noop
+play.anghami.com doubleclick.net * noop
+play.anghami.com dxa8fg4g2dop0.cloudfront.net * noop
+play.anghami.com exelator.com * noop
+play.anghami.com footprint.net * noop
+play.anghami.com google.com * noop
+play.anghami.com gstatic.com * noop
+play.anghami.com gstaticadssl.l.google.com * noop
+play.anghami.com raygun.io * noop
+play.anghami.com sc-static.net * noop
+play.anghami.com streamtheworld.com * noop
+poss.hol.es fontawesome.com * noop
+poss.hol.es kit.fontawesome.com * noop
+quran.ksu.edu.sa ksu.edu.sa * noop
+quran.ksu.edu.sa quran.ksu.edu.sa * noop
+rarbgaccess.org dyncdn.me * noop
+rarbgaccess.org rarbgaccess.org * noop
+reimmahmoud.tumblr.com oath.com * noop
+reimmahmoud.tumblr.com px.srvcs.tumblr.com * noop
+secure.meetup.com dna8twue3dlxq.cloudfront.net * noop
+secure.meetup.com meetupstatic.com * noop
+secure.skype.com skypeassets.com * noop
+slack.com googletagmanager.com * noop
+slack.com optimizely.com * noop
+slack.com slack-edge.com * noop
+slack.com slack.com * noop
+soundcloud.com apis.google.com * noop
+soundcloud.com csi.gstatic.com * noop
+soundcloud.com d10rxg6s8apbfh.cloudfront.net * noop
+soundcloud.com d15wdfb2rw9n2y.cloudfront.net * noop
+soundcloud.com d28n7yywqog3r7.cloudfront.net * noop
+soundcloud.com google.com * noop
+soundcloud.com gstatic.com * noop
+soundcloud.com sndcdn.com * noop
+soundcloud.com soundcloud.com * noop
+soundcloud.com ssl.gstatic.com * noop
+soundcloud.com www.google.com * noop
+soundcloud.com www.gstatic.com * noop
+takeout.google.com googleusercontent.com * noop
+takeout.google.com gstatic.com * noop
+thepiratebay.org cloudflare.net * noop
+thepiratebay.org jsdelivr.net * noop
+thepiratebay.org torrindex.net * noop
+thmanyah.com b-cdn.net * noop
+thmanyah.com hotjar.com * noop
+tinder.com tinder.com * noop
+toggl.com js.stripe.com * noop
+toggl.com stripe.com * noop
+trello.com a.trellocdn.com * noop
+trello.com api-private.atlassian.com * noop
+trello.com apis.google.com * noop
+trello.com atlassian.com * noop
+trello.com e2286.e2.akamaiedge.net * noop
+trello.com trello.com * noop
+trello.com trellocdn.com * noop
+trello.com unsplash.com * noop
+trello.com views.unsplash.com * noop
+twdownload.com ajax.googleapis.com * noop
+twdownload.com twdownload.com * noop
+twitter.com cs672.wac.edgecastcdn.net * noop
+twitter.com edgecastcdn.net * noop
+twitter.com twimg.com * noop
+twitter.com twimg.twitter.map.fastly.net * allow
+twitter.com twitter.com * noop
+twitter.com twitter.map.fastly.net * noop
+us02web.zoom.us dvbgjdmoemnwz.cloudfront.net * noop
+us04web.zoom.us d3rp719d4i9d9o.cloudfront.net * noop
+us04web.zoom.us zdassets.com * noop
+videolectures.net jsdelivr.net * noop
+videolectures.net videolectures.net * noop
+videolectures.net viidea.com * noop
+web.whatsapp.com crashlogs.whatsapp.net * noop
+web.whatsapp.com mmx-ds.cdn.whatsapp.net * noop
+web.whatsapp.com web.whatsapp.com * noop
+web.whatsapp.com whatsapp.com * noop
+web.whatsapp.com whatsapp.net * noop
+www.acadox.com doubleclick.net * noop
+www.acadox.com hs-scripts.com * noop
+www.almaany.com ajax.googleapis.com * noop
+www.anghami.com a728.d.akamai.net * noop
+www.anghami.com akamai.net * noop
+www.anghami.com akamaiedge.net * noop
+www.anghami.com akamaized.net * noop
+www.anghami.com amplitude.com * noop
+www.anghami.com angapi-505003653.eu-west-1.elb.amazonaws.com * noop
+www.anghami.com anghami.com * noop
+www.anghami.com cdn-apple.com * noop
+www.anghami.com cdn.amplitude.com * noop
+www.anghami.com d15c7r7xafcdi4.cloudfront.net * noop
+www.anghami.com d1bs4b7zdgd8l3.cloudfront.net * noop
+www.anghami.com footprint.net * noop
+www.anghami.com google.com * noop
+www.anghami.com gstatic.com * noop
+www.anghami.com raygun.io * noop
+www.anghami.com sc-static.net * noop
+www.anghami.com streamtheworld.com * noop
+www.anghami.com www.gstatic.com * noop
+www.apkmirror.com apkmirror.com * noop
+www.apkmirror.com consensu.org * noop
+www.apkmirror.com crsspxl.com * allow
+www.apkmirror.com disqus.com * noop
+www.bing.com a-msedge.net * noop
+www.bing.com akamai.net * noop
+www.bing.com amazonaws.com * noop
+www.bing.com bing.com * noop
+www.bing.com www.bing.com * noop
+www.downloadvideosfrom.com ajax.googleapis.com * noop
+www.downloadvideosfrom.com cdninstagram.com * noop
+www.downloadvideosfrom.com downloadvideosfrom-xvbumqfixmhzxo.stackpathdns.com * noop
+www.downloadvideosfrom.com downloadvideosfrom.com * noop
+www.downloadvideosfrom.com instagram.frix7-1.fna.fbcdn.net * noop
+www.downloadvideosfrom.com scontent-ams4-1.cdninstagram.com * noop
+www.downloadvideosfrom.com server2.workerserverbl.com * noop
+www.downloadvideosfrom.com stackpathdns.com * noop
+www.downloadvideosfrom.com workerserverbl.com * noop
+www.downloadvideosfrom.com www.downloadvideosfrom.com * noop
+www.elmessiri.com elmessiri.com * noop
+www.elmessiri.com www.elmessiri.com * noop
+www.facebook.com 1-edge-chat.facebook.com * noop
+www.facebook.com apps-2206225736108477.apps.fbsbx.com * noop
+www.facebook.com connect.facebook.net * noop
+www.facebook.com d3vt0bn2bkf1bp.cloudfront.net * noop
+www.facebook.com doubleclick.net * noop
+www.facebook.com edge-chat.facebook.com * noop
+www.facebook.com facebook.com * noop
+www.facebook.com facebook.net * noop
+www.facebook.com fbcdn.net * noop
+www.facebook.com fbsbx.com * noop
+www.facebook.com gazeus.com * noop
+www.facebook.com googleads.g.doubleclick.net * noop
+www.facebook.com jogatina.com * noop
+www.facebook.com pixel.facebook.com * noop
+www.facebook.com s.update.fbsbx.com * noop
+www.facebook.com scontent-hbe1-1.xx.fbcdn.net * noop
+www.facebook.com scontent-mrs2-1.xx.fbcdn.net * noop
+www.facebook.com scontent.xx.fbcdn.net * noop
+www.facebook.com static.xx.fbcdn.net * noop
+www.facebook.com video-cdg2-1.xx.fbcdn.net * noop
+www.facebook.com video-mrs2-1.xx.fbcdn.net * noop
+www.facebook.com www.facebook.com * noop
+www.goodreads.com amazon-adsystem.com * noop
+www.goodreads.com d1iqki3au1knww.cloudfront.net * noop
+www.goodreads.com d2arxad8u2l0g7.cloudfront.net * noop
+www.goodreads.com doubleclick.net * noop
+www.goodreads.com goodreads.com * noop
+www.goodreads.com gr-assets.com * noop
+www.goodreads.com media-amazon.com * noop
+www.goodreads.com quantserve.com * noop
+www.goodreads.com scorecardresearch.com * noop
+www.goodreads.com ssl-images-amazon.com * noop
+www.google.com adservice.google.com * noop
+www.google.com google.com * noop
+www.google.com googleusercontent.com * noop
+www.google.com gstatic.com * noop
+www.google.com lh3.googleusercontent.com * noop
+www.google.com ssl.gstatic.com * noop
+www.google.com www.google.com * noop
+www.google.com www.gstatic.com * noop
+www.grammarly.com d1vo1zpued4nei.cloudfront.net * noop
+www.grammarly.com grammarly.com * noop
+www.grammarly.com static.grammarly.com * noop
+www.hackintoshzone.com cloudflare.net * noop
+www.hackintoshzone.com doubleclick.net * noop
+www.hackintoshzone.com gstatic.com * noop
+www.hackintoshzone.com hackintosh.download * noop
+www.hackintoshzone.com hackintoshzone.com * noop
+www.hackintoshzone.com jsdelivr.net * noop
+www.ida2at.com cdn.ida2at.com * noop
+www.ida2at.com doubleclick.net * noop
+www.ida2at.com fonts.googleapis.com * noop
+www.ida2at.com google-analytics.com * noop
+www.ida2at.com ida2at-2033742816.eu-central-1.elb.amazonaws.com * noop
+www.ida2at.com ida2at.com * noop
+www.ida2at.com securepubads.g.doubleclick.net * noop
+www.ida2at.com www.google-analytics.com * noop
+www.ida2at.com www.ida2at.com * noop
+www.imdb.com amazon.map.fastly.net * noop
+www.imdb.com cloudfront.xp-assets.aiv-cdn.net * noop
+www.imdb.com db187550c7dkf.cloudfront.net * noop
+www.imdb.com dy9m7u6pqt5gf.cloudfront.net * noop
+www.imdb.com ia.media-imdb.com * noop
+www.imdb.com m.media-amazon.com * noop
+www.imdb.com media-amazon.com * noop
+www.imdb.com media-imdb.com * noop
+www.imdb.com ssl-images-amazon.com * noop
+www.infinix.club admin.infinix.club * noop
+www.infinix.club googletagmanager.com * noop
+www.infinix.club infinix.club * noop
+www.infinix.club www.googletagmanager.com * noop
+www.infinix.club www.infinix.club * noop
+www.instagram.com cdninstagram.com * noop
+www.instagram.com facebook.com * noop
+www.instagram.com fbcdn.net * noop
+www.instagram.com graph.instagram.com * noop
+www.instagram.com instagram.c10r.facebook.com * noop
+www.instagram.com instagram.com * noop
+www.instagram.com z-p42-instagram.c10r.facebook.com * noop
+www.interpals.net ajax.googleapis.com * noop
+www.interpals.net bootstrapcdn.com * noop
+www.interpals.net doubleclick.net * noop
+www.interpals.net interpals.net * noop
+www.interpals.net ipstatic.net * noop
+www.jetbrains.com browser.sentry-cdn.com * noop
+www.jetbrains.com sentry-cdn.com * noop
+www.jumia.com.eg googletagmanager.com * noop
+www.jumia.com.eg jumia.com.eg * noop
+www.jumia.com.eg jumia.is * noop
+www.jumia.com.eg mb-srv.com * noop
+www.jumia.com.eg newrelic.com * noop
+www.lingoglobe.com lingoglobe.com * noop
+www.livehelpnow.net livehelpnow.net * noop
+www.livehelpnow.net te.eg * noop
+www.livehelpnow.net www.livehelpnow.net * noop
+www.maajim.com ajax.cloudflare.com * noop
+www.maajim.com cdnjs.cloudflare.com * noop
+www.maajim.com cloudflare.com * noop
+www.maajim.com maajim.com * noop
+www.maajim.com www.maajim.com * noop
+www.meetup.com dna8twue3dlxq.cloudfront.net * noop
+www.meetup.com meetupstatic.com * noop
+www.meetup.com polyfill.io * noop
+www.meetup.com stripe.com * noop
+www.messenger.com 4-edge-chat.messenger.com * noop
+www.messenger.com edge-chat.messenger.com * noop
+www.messenger.com facebook.com * noop
+www.messenger.com fbcdn.net * noop
+www.messenger.com messenger.com * noop
+www.messenger.com scontent-hbe1-1.xx.fbcdn.net * noop
+www.messenger.com static.xx.fbcdn.net * noop
+www.messenger.com www.messenger.com * noop
+www.mod.gov.eg mod.gov.eg * noop
+www.mytedata.net fonts.googleapis.com * noop
+www.mytedata.net googletagmanager.com * noop
+www.mytedata.net gstatic.com * noop
+www.mytedata.net mytedata.net * noop
+www.mytedata.net www.googletagmanager.com * noop
+www.mytedata.net www.mytedata.net * noop
+www.netflix.com netflix.com * noop
+www.netflix.com nflxext.com * noop
+www.omegle.com ajax.googleapis.com * noop
+www.omegle.com facebook.net * noop
+www.omegle.com google-analytics.com * noop
+www.omegle.com google.com * noop
+www.omegle.com googletagservices.com * noop
+www.omegle.com gstatic.com * noop
+www.omegle.com omegle.com * noop
+www.omegle.com translate.googleapis.com * noop
+www.omegle.com twitter.com * noop
+www.payscale.com cdn-payscale.com * noop
+www.payscale.com fonts.googleapis.com * noop
+www.payscale.com googletagmanager.com * noop
+www.payscale.com googletagservices.com * noop
+www.payscale.com gstatic.com * noop
+www.payscale.com msecnd.net * noop
+www.payscale.com payscale.com * noop
+www.payscale.com polyfill.io * noop
+www.payscale.com unpkg.com * noop
+www.payscale.com visualwebsiteoptimizer.com * noop
+www.pinterest.com pinimg.com * noop
+www.pinterest.com s.pinimg.com * noop
+www.quora.com apis.google.com * noop
+www.quora.com cdnjs.cloudflare.com * noop
+www.quora.com cloudflare.com * noop
+www.quora.com qph.fs.quoracdn.net * noop
+www.quora.com qsbr.fs.quoracdn.net * noop
+www.quora.com qsf.fs.quoracdn.net * noop
+www.quora.com quora.com * noop
+www.quora.com quoracdn.net * noop
+www.quora.com www.quora.com * noop
+www.quranflash.com sharethis.com * block
+www.quranflash.com twitter.com * block
+www.reddit.com reddit.com * noop
+www.reddit.com redditmedia.com * noop
+www.reddit.com redditstatic.com * noop
+www.shakwa.eg shakwa.eg * noop
+www.shakwa.eg www.shakwa.eg * noop
+www.shoroukbookstores.com facebook.net * noop
+www.shoroukbookstores.com fonts.googleapis.com * noop
+www.shoroukbookstores.com google-analytics.com * noop
+www.shoroukbookstores.com google.com * noop
+www.shoroukbookstores.com googlesyndication.com * noop
+www.shoroukbookstores.com onesignal.com * noop
+www.shoroukbookstores.com shoroukbookstores.com * noop
+www.spacex.com ajax.googleapis.com * noop
+www.spacex.com akamai.net * noop
+www.spacex.com classof2020mosaic.com * noop
+www.spacex.com d2etzzhfwalk1t.cloudfront.net * noop
+www.spacex.com newrelic.com * noop
+www.spacex.com spacex.map.fastly.net * noop
+www.spacex.com typekit.com * noop
+www.speaky.com bootstrapcdn.com * noop
+www.speaky.com branch.io * noop
+www.speaky.com d24n15hnbwhuhn.cloudfront.net * noop
+www.speaky.com fonts.googleapis.com * noop
+www.speaky.com google.com * noop
+www.speaky.com onesignal.com * noop
+www.speaky.com speaky.com * noop
+www.speaky.com ytimg.com * noop
+www.speedtest.net cdnst.net * noop
+www.speedtest.net evidon.com * noop
+www.speedtest.net speedtest.net * noop
+www.speedtest.net zd.map.fastly.net * noop
+www.technologyreview.com blueconic.net * noop
+www.thepiratebay.org thepiratebay.org * noop
+www.tiktok.com akamai.net * noop
+www.tiktok.com akamaiedge.net * noop
+www.tiktok.com ibytedtos.com * noop
+www.tiktok.com tiktokcdn.com * noop
+www.tumblr.com 66.media.tumblr.com * noop
+www.tumblr.com assets.tumblr.com * noop
+www.tumblr.com chicdn.net * noop
+www.tumblr.com consent.cmp.oath.com * noop
+www.tumblr.com cs1141.wpc.chicdn.net * noop
+www.tumblr.com cs1143.wpc.chicdn.net * noop
+www.tumblr.com google.com * noop
+www.tumblr.com oath.com * noop
+www.tumblr.com psicdn.net * noop
+www.tumblr.com px.srvcs.tumblr.com * noop
+www.tumblr.com sb.scorecardresearch.com * noop
+www.tumblr.com scorecardresearch.com * noop
+www.tumblr.com ssl.google-analytics.com * noop
+www.tumblr.com tumblr.com * noop
+www.tumblr.com txmblr.com * noop
+www.tumblr.com wp.com * noop
+www.tumblr.com www.tumblr.com * noop
+www.tumblr.com yimg.com * noop
+www.twitch.tv arkoselabs.com * noop
+www.twitch.tv branch.io * noop
+www.twitch.tv d1ozf2ksnk66sq.cloudfront.net * noop
+www.twitch.tv d2jqk7kzoh6j0s.cloudfront.net * noop
+www.twitch.tv d2nvs31859zcd8.cloudfront.net * noop
+www.twitch.tv d2v02itv0y9u9t.cloudfront.net * noop
+www.twitch.tv d3gdm2urgmeunj.cloudfront.net * noop
+www.twitch.tv gstatic.com * noop
+www.twitch.tv imrworldwide.com * noop
+www.twitch.tv jtvnw.net * noop
+www.twitch.tv science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com * noop
+www.twitch.tv twitch.map.fastly.net * noop
+www.twitch.tv twitch.tv * noop
+www.twitch.tv twitchcdn.net * noop
+www.twitch.tv twitchsvc.net * noop
+www.worldometers.info ajax.googleapis.com * noop
+www.worldometers.info datatables.net * noop
+www.worldometers.info highcharts.com * noop
+www1.rarbg.cc ajax.cloudflare.com * noop
+www1.rarbg.cc cdnjs.cloudflare.com * noop
+www1.rarbg.cc sw.wpu.sh * noop
+www1.rarbg.cc wpu.sh * noop
+www6.123movies.st 123movies.st * noop
+www6.123movies.st addthis.com * noop
+www6.123movies.st akacdn.ru * noop
+www6.123movies.st amung.us * noop
+www6.123movies.st cloudflare.com * noop
+www6.123movies.st deloplen.com * noop
+www6.123movies.st disqus.com * noop
+www6.123movies.st facebook.net * noop
+www6.123movies.st fonts.googleapis.com * noop
+www6.123movies.st google-analytics.com * noop
+www6.123movies.st gstatic.com * noop
+www6.123movies.st propellerclick.com * noop
+www6.123movies.st pusherism.com * noop
+www6.123movies.st twitter.com * noop
+www6.123movies.st zap.buzz * noop
+y2mate.com ajax.cloudflare.com * noop
+y2mate.com ajax.googleapis.com * noop
+y2mate.com apis.google.com * noop
+y2mate.com bootstrapcdn.com * noop
+y2mate.com cloudflare.com * noop
+y2mate.com content-cdn.y2mate.com * noop
+y2mate.com google.com * noop
+y2mate.com i.ytimg.com * noop
+y2mate.com mate10.y2mate.com * noop
+y2mate.com maxcdn.bootstrapcdn.com * noop
+y2mate.com y2mate.com * noop
+y2mate.com ytimg.com * noop
+yasserreda.pb.online d28avw9ny3vgf2.cloudfront.net * noop
+yasserreda.pb.online google.com * noop
+yasserreda.pb.online pb.online * noop
+yasserreda.pb.online www.google.com * noop
+yasserreda.pb.online yasserreda.pb.online * noop
+zone.msn.com ajax.aspnetcdn.com * noop
+zone.msn.com aolcdn.com * noop
+zone.msn.com aspnetcdn.com * noop
+zone.msn.com az416426.vo.msecnd.net * noop
+zone.msn.com fwmrm.net * noop
+zone.msn.com msecnd.net * noop
+zone.msn.com mssl.fwmrm.net * noop
+zone.msn.com s.aolcdn.com * noop
+zone.msn.com sb.scorecardresearch.com * noop
+zone.msn.com scorecardresearch.com * noop
+zoom.us d24cgw3uvb9a9h.cloudfront.net * noop
+zoom.us zdassets.com * noop
+zoom.us zendesk.com * noop
+zoom.us zoom.us * noop
