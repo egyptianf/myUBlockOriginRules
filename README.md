@@ -10,7 +10,7 @@
 
 <h3>Professioanl Profile</h3>
 <p>
-	This is the profile for <a href="https://linkedin.com">LinkedIn</a>, Technical Blogs, main Work Email, <a href="https://github.com">Github, Online learning accounts, etc..
+	This is the profile for <a href="https://linkedin.com">LinkedIn</a>, Technical Blogs, main Work Email, <a href="https://github.com">Github</a>, Online learning accounts, etc..
 </p>
 
 <h3>Purchace Profile</h3>
